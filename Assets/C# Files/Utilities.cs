@@ -27,6 +27,12 @@ public static class Utilities
     public static GameManager gm;
 
     public static float tileWidth = 1.0092f;
+    public static Vector2 firstTile;
+
+    public static void initUtils()
+    {
+        firstTile = new Vector2(-tileWidth * 3, -tileWidth * 3);
+    }
 
     public static bool isValidLocation(int x, int y) { return x <= 7 && x >= 0 && y <= 7 && y >= 0; }
 

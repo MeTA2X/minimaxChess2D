@@ -24,6 +24,8 @@ public class GameManager : MonoBehaviour
     public GameObject darkTile;
     void Start()
     {
+        Utilities.initUtils();
+
         Utilities.whiteKing = whiteKing;
         Utilities.whiteQueen = whiteQueen;
         Utilities.whiteBishop = whiteBishop;

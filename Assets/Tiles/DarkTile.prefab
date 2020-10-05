@@ -10,7 +10,6 @@ GameObject:
   m_Component:
   - component: {fileID: 6578727017217916408}
   - component: {fileID: 6578727017217916409}
-  - component: {fileID: 92153081371974190}
   - component: {fileID: -8781433153499652520}
   m_Layer: 9
   m_Name: DarkTile
@@ -83,20 +82,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &92153081371974190
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6578727017217916358}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1801276d6c3ea8e46b39e67cc579ecd6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  x: 0
-  y: 0
 --- !u!61 &-8781433153499652520
 BoxCollider2D:
   m_ObjectHideFlags: 0

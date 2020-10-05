@@ -257,7 +257,7 @@ MonoBehaviour:
     type: 3}
   blackPawn: {fileID: 2469134590727331462, guid: 83e2255be37964b40a79e82e5f00c734,
     type: 3}
-  lightTile: {fileID: 9185005731122162511, guid: a99268679278b594c84230308c09135a,
+  lightTile: {fileID: 6969335426678758208, guid: a99268679278b594c84230308c09135a,
     type: 3}
   darkTile: {fileID: 6578727017217916358, guid: 6e4dcb012db623c43a08c82b9d2093f0,
     type: 3}
